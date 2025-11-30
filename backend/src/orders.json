@@ -1,0 +1,28 @@
+[
+  {
+    "id": "order-8bfa659d",
+    "items": [
+      {
+        "product_id": "tee-001",
+        "name": "Cool Tee (Cotton)",
+        "unit_price": 799,
+        "quantity": 2,
+        "line_total": 1598,
+        "attrs": {
+          "size": "L"
+        }
+      },
+      {
+        "product_id": "mug-001",
+        "name": "Stoneware Chai Mug",
+        "unit_price": 299,
+        "quantity": 1,
+        "line_total": 299,
+        "attrs": {}
+      }
+    ],
+    "total": 1897,
+    "currency": "INR",
+    "created_at": "2025-11-30T12:16:52.795348Z"
+  }
+]
